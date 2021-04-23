@@ -1,0 +1,3 @@
+SERVICE_USER_INFO
+care_facility_id,service_code,external_system_management_number,insurer_no,insured_no,last_name,first_name,gender,birthday,care_level
+"事業所番号","サービス種類コード","外部システム管理番号","保険者番号","被保険者番号","利用者姓","利用者名",利用者性別,"利用者生年月日","要介護度"
